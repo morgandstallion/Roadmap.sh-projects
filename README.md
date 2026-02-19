@@ -13,7 +13,7 @@ Click any of the images below to view the readme and live demo of the project.
 <p align="left">
   <figure>
   <a href="Frontend-Projects/01-Single-page-cv/index.html">
-    <img width="20%" src="./Assets/Single-page-cv.jpeg" alt="single page cv" />
+    <img width="20%" src="./Assets/Single-page-cv.jpeg" alt="single page cv" /><br/>
   </a>
     <figcaption>Single-page CV</figcaption>
   </figure>
