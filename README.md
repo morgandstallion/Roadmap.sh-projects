@@ -15,24 +15,24 @@ Click any of the images below to view the readme and live demo of the project.
 <table align="center">
 <tr>
 
-<td align="center" width="50%">
-<a href="LINK_TO_PROJECT_1">
-<img src="./Assets/image1.jpeg"
-     width="100%"
+<td align="center" width="300px">
+<a href="Frontend-Projects/01-Single-page-cv/index.html">
+<img src="./Assets/Single-page-cv.jpeg"
+     width="80%"
      style="max-width:350px; border-radius:12px;"
-     alt="Project 1"/>
+     alt="Single-page-cv"/>
 </a>
-<br><b>Project One</b>
+<br><b>Single-page-cv</b>
 </td>
 
-<td align="center" width="50%">
-<a href="LINK_TO_PROJECT_2">
-<img src="./Assets/image2.jpeg"
-     width="100%"
-     style="max-width:350px; border-radius:12px;"
-     alt="Project 2"/>
+<td align="center" width= "300px">
+<a href="Frontend-Projects/01-Single-page-cv/index.html">
+<img src="./Assets/Basic-html-website.jpeg"
+     width="80%"
+     style="max-width:30px; border-radius:50px;"
+     alt="Basic-html-website"/>
 </a>
-<br><b>Project Two</b>
+<br><b>Basic-html-website</b>
 </td>
 
 </tr>
